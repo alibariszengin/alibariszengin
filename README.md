@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibariszengin&label=Profile%20views&color=0e75b6&style=flat" alt="alibariszengin" /> </p>
 
-- 🔭 I’m currently working on **Huawei Petal-Maps**
+- 🔭 I’m currently working on **Amadeus PropWorks**
 
 - 🌱 I’m currently learning **DevOps, Web3, System Design**
 
-- 💬 Ask me about **Java Spring, React, Web3**
+- 💬 Ask me about **Java Spring, React, Angular, Web3**
 
 - 📫 How to reach me **alibariszengin@gmail.com**
 
